@@ -5,4 +5,8 @@ url: "https://efsotr.github.io"
 theme: minima            
 plugins:
   - jekyll-feed          
-  - jekyll-sitemap       
+  - jekyll-sitemap      
+  - jekyll-seo-tag
+
+seo:
+  google_site_verification: p-uwm006xueBX_LdgWfFTTkw-W13yfl51FXHi8xTT6s
