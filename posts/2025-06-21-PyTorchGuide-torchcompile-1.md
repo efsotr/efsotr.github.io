@@ -2,6 +2,7 @@
 layout: post
 title: "[PyTorch API Guide] torch.compile"
 date: 2025-06-21
+image: /assets/images/PyTorchGuide.png
 ---
 
 **Keywords**: torch.compile, PyTorch 2.0, pt2, max-autotune, activation checkpointing, gradient checkpointing, memory budget
