@@ -1,10 +1,12 @@
-## [PyTorch API Guide] torch.compile
+---
+layout: post
+title: "[PyTorch API Guide] torch.compile"
+date: 2025-06-21
+---
 
 **Keywords**: torch.compile, PyTorch 2.0, pt2, max-autotune, activation checkpointing, gradient checkpointing, memory budget
 
-**Chinese Version:** https://zhuanlan.zhihu.com/p/30568383519
-
-**Powered by ChatGPT 4o**
+**Chinese Version:** [https://zhuanlan.zhihu.com/p/30568383519](https://zhuanlan.zhihu.com/p/30568383519)
 
 ### Introduction
 
