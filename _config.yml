@@ -1,5 +1,5 @@
-title: "Blog"
-description: "Tech Blog"
+title: "Tech Blog"
+description: "Deep dives into CUDA, PyTorch, and LLM"
 baseurl: ""              
 url: "https://efsotr.github.io"
 theme: minima            
