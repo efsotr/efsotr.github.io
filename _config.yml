@@ -1,0 +1,8 @@
+title: "Blog"
+description: "Tech Blog"
+baseurl: ""              
+url: "https://efsotr.github.io"
+theme: minima            
+plugins:
+  - jekyll-feed          
+  - jekyll-sitemap       
