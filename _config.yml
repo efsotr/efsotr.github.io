@@ -1,5 +1,5 @@
 title: "Tech Blog"
-description: "Deep dives into CUDA, PyTorch, and LLM"
+description: "Deep dives into CUDA, PyTorch, and LLM (Powered by ChatGPT)"
 baseurl: ""              
 url: "https://efsotr.github.io"
 theme: minima            
