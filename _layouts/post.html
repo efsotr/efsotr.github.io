@@ -42,7 +42,7 @@ layout: base
     {{ content }}
   </div>
 
-  {% if jekyll.environment == 'production' -%}
+<!--   {% if jekyll.environment == 'production' -%}
     {% if page.comments == false -%}
     <div class="comments-disabled-message">
       Comments have been disabled for this post.
@@ -50,7 +50,7 @@ layout: base
     {% else -%}
       {%- include comments.html -%}
     {% endif -%}
-  {% endif -%}
+  {% endif -%} -->
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
